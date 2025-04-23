@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_lab_1/custom_card_four.dart';
-import 'package:flutter_lab_1/custom_category.dart';
+import 'package:flutter_lab_1/widgets/custom_card_four.dart';
+import 'package:flutter_lab_1/widgets/custom_category.dart';
 
 class Screen3 extends StatelessWidget {
   const Screen3({super.key});

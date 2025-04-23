@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_lab_1/Screen3.dart';
-import 'package:flutter_lab_1/sceen1.dart';
-import 'package:flutter_lab_1/screen2.dart';
+import 'package:flutter_lab_1/screens/screen4.dart';
+import 'package:flutter_lab_1/screens/screen5.dart';
+
 import 'package:google_fonts/google_fonts.dart';
 
 void main() {
@@ -17,7 +17,7 @@ class MyApp extends StatelessWidget {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
       theme: ThemeData(textTheme: GoogleFonts.poppinsTextTheme()),
-      home: Screen3(),
+      home: Screen4(),
     );
   }
 }

@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_lab_1/custom_cardthree.dart';
+import 'package:flutter_lab_1/widgets/custom_cardthree.dart';
 
 class Screen2 extends StatelessWidget {
   const Screen2({super.key});
