@@ -13,6 +13,7 @@ class Screen6 extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       backgroundColor: Colors.white,
+
       appBar: AppBar(backgroundColor: Colors.transparent),
       body: Padding(
         padding: const EdgeInsets.symmetric(horizontal: 12.0),

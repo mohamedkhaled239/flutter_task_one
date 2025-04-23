@@ -84,7 +84,7 @@ class Screen5 extends StatelessWidget {
                 InkWell(
                   onTap: () {
                     // go to sign up
-                    Navigator.push(
+                    Navigator.pushReplacement(
                       context,
                       MaterialPageRoute(builder: (context) => const Screen6()),
                     );
